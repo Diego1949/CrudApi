@@ -1,4 +1,4 @@
 Integrantes:
 - Mateo Bolivar Arroyave
-- Digo Ramirez
+- Diego Ramirez
 - Juan Esteban Garcia
